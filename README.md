@@ -1,5 +1,7 @@
 # Bikesharing Challanges
 ## Bike Trip Analysis NYC
+### Link to Tableau Public Story
+[link to dashboard] https://public.tableau.com/views/BikeSharing_Challenge_16780643981890/BikeTripAnalysisNYC?:language=en-US&:display_count=n&:origin=viz_share_link
 ### Overview
 We have been tasked with analyzing the Bike Sharing U?sage Data for New York City.  We are trying to determin if beginning a similar Program in Des Moines is worthwhile.  
 ### Results
